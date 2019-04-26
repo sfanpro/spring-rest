@@ -7,6 +7,6 @@
 <hr>
 <a href="${pageContext.request.contextPath}/test/hello">Good Morning</a>
 <br><br>
-<a href="${pageContext.request.contextPath}/api/student">Get all students</a>
+<a href="${pageContext.request.contextPath}/api/students">Get all students</a>
 </body>
 </html>
